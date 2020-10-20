@@ -2,7 +2,7 @@
 
 This is a simple implementation with Python 3 and PyGame of the classic
 [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game)) game by
-[Gigi Sayfan]((https://gitlab.com/the-gigi)) and [me]((https://github.com/rapid-roger)). The purpose is
+[Gigi Sayfan](https://gitlab.com/the-gigi) and [me](https://github.com/rapid-roger). The purpose is
 to serve as a first project for my portfolio.
 
 # New features
